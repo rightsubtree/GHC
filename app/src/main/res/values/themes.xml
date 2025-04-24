@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GHC" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/red_500</item>
+        <item name="colorPrimaryContainer">@color/red_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

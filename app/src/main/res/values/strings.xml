@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GHC</string>
+    <string name="title_repository_content">Repo Content</string>
+    <string name="title_file_content">File Content</string>
+    <string name="logoff">Logoff</string>
+    <string name="oauth">OAuth</string>
+    <string name="commit_issue">Commit Issue</string>
+
+    <string name="accessibility_file_list">List of files</string>
+    <string name="accessibility_path_navigation">Path navigation</string>
+    <string name="accessibility_create_issue">Create new issue</string>
+</resources>
