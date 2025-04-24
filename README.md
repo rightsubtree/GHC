@@ -10,6 +10,8 @@
 
 受限于条件，app只在模拟器上测试过，使用的是Pixel 4 的 api 29 版本；
 
+编译好的debug版本的apk见根目录的压缩包——**GHC-app-debug.tar.gz**，解压可得apk；
+
 
 
 ## 2. 已知问题
