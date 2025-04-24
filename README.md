@@ -44,20 +44,6 @@ App → ViewModel → Repository → Retrofit
 
 
 
-### MVVM协作流程
-
-```mermaid
-graph TD
-    A[MineViewModel] -->|调用| B(AuthRepository)
-    B -->|协程| C[GitHubOAuthService]
-    B -->|存储| D[SessionManager]
-    A -->|观察| E[LiveData<AuthState>]
-```
-
-
-
-
-
 ### 4.1 Model 层设计
 
 #### 数据模型映射
